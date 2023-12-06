@@ -1,16 +1,19 @@
-# quran
+# نرم‌افزار موبایل قرآن مقدس
 
-A new Flutter project.
+- این اپلیکیشن موبایل براساس فریمورک فلاتر برای سیستم‌عامل‌های اندروید و iOS توسعه داده شده است و به شما امکان می‌دهد تا به راحتی قرآن کریم را مطالعه و گوش کنید. در زیر توضیحاتی در مورد قابلیت‌های این اپلیکیشن آورده شده است:
 
-## Getting Started
+## ۱. لیست کامل سوره‌ها
 
-This project is a starting point for a Flutter application.
+- در این اپلیکیشن، تمامی ۱۱۴ سوره قرآن کریم لیست شده‌اند.
 
-A few resources to get you started if this is your first Flutter project:
+## ۲. لیست ۳۰ جز قرآن
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- به‌طور خاص، یک لیست اختصاصی برای ۳۰ جز قرآن فراهم شده است.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ۳. قابلیت جستجو
+
+- امکان جستجوی سریع بر اساس نام سوره کاربران را قادر می‌سازد تا به سوره مورد نظر خود دسترسی یابند.
+
+## ۴. قابلیت خواندن متن
+
+- امکان مشاهده متن قرآن به زبان عربی با فونت خوانا و قابل فهم.
