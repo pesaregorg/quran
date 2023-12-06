@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "name": "Al-Minshawi",
+    "dir_name": "/Menshawi",
+    "url": "https://everyayah.com/data/Menshawi_16kbps/",
+    "order": 4
+  },
+  {
+    "id": 2,
+    "name": "Al-Ghamdi",
+    "dir_name": "/Ghamdi",
+    "url": "https://everyayah.com/data/Ghamadi_40kbps/",
+    "order": 2
+  },
+  {
+    "id": 3,
+    "name": "Al-Shatri",
+    "dir_name": "/Shatri",
+    "url": "https://everyayah.com/data/Abu%20Bakr%20Ash-Shaatree_128kbps/",
+    "order": 1
+  },
+  {
+    "id": 4,
+    "name": "Al-Afasy",
+    "dir_name": "/Afasy",
+    "url": "https://everyayah.com/data/Alafasy_128kbps/",
+    "order": 7
+  },
+  {
+    "id": 5,
+    "name": "Al-Shuraim",
+    "dir_name": "/Shuraim",
+    "url": "https://everyayah.com/data/Saood%20bin%20Ibraaheem%20Ash-Shuraym_128kbps/",
+    "order": 12
+  },
+  {
+    "id": 6,
+    "name": "Ayyub",
+    "dir_name": "/Ayyub",
+    "url": "https://everyayah.com/data/Muhammad_Ayyoub_128kbps/",
+    "order": 8
+  },
+  {
+    "id": 7,
+    "name": "Al-Ajmy",
+    "dir_name": "/Ajmy",
+    "url": "https://everyayah.com/data/Ahmed_ibn_Ali_al-Ajamy_64kbps_QuranExplorer.Com/",
+    "order": 13
+  },
+  {
+    "id": 8,
+    "name": "Al-Hudhaifi",
+    "dir_name": "/Hudhaifi",
+    "url": "https://everyayah.com/data/Hudhaify_32kbps/",
+    "order": 9
+  },
+  {
+    "id": 9,
+    "name": "Abdulbasit",
+    "dir_name": "/Abdulbasit",
+    "url": "https://everyayah.com/data/AbdulSamad_64kbps_QuranExplorer.Com/",
+    "order": 3
+  },
+  {
+    "id": 11,
+    "name": "Al-Husary",
+    "dir_name": "/Husary",
+    "url": "https://everyayah.com/data/Husary_128kbps/",
+    "order": 14
+  },
+  {
+    "id": 12,
+    "name": "Abdullah Basfar",
+    "dir_name": "/Basfar",
+    "url": "https://everyayah.com/data/Abdullah_Basfar_192kbps/",
+    "order": 15
+  },
+  {
+    "id": 13,
+    "name": "Abdul Rahman Al-Sudais",
+    "dir_name": "/Sudais",
+    "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/",
+    "order": 16
+  },
+  {
+    "id": 14,
+    "name": "Maher Al-Muaiqly",
+    "dir_name": "/Muaiqly",
+    "url": "https://www.everyayah.com/data/MaherAlMuaiqly128kbps/",
+    "order": 6
+  },
+  {
+    "id": 15,
+    "name": "At-Tablawi",
+    "dir_name": "/Tablawi",
+    "url": "https://www.everyayah.com/data/Mohammad_al_Tablaway_128kbps/",
+    "order": 10
+  },
+  {
+    "id": 16,
+    "name": "Ar-Refai",
+    "dir_name": "/Refai",
+    "url": "https://www.everyayah.com/data/Hani_Rifai_192kbps/",
+    "order": 11
+  },
+  {
+    "id": 17,
+    "name": "Al-Akhdar",
+    "dir_name": "/Akhdar",
+    "url": "https://www.everyayah.com/data/Ibrahim_Akhdar_32kbps/",
+    "order": 17
+  },
+  {
+    "id": 18,
+    "name": "Shahriar Parhizgar",
+    "dir_name": "/ShahriarParhizgar",
+    "url": "https://www.everyayah.com/data/Parhizgar_48kbps/",
+    "order": 5
+  },
+  {
+    "id": 19,
+    "name": "Fooladvand-Hedayatfar",
+    "dir_name": "/Hedayatfar",
+    "url": "https://www.everyayah.com/data/translations/Fooladvand_Hedayatfar_40Kbps/",
+    "order": 18
+  },
+  {
+    "id": 20,
+    "name": "Makarem-Kabiri",
+    "dir_name": "/Kabiri",
+    "url": "https://everyayah.com/data/translations/Makarem_Kabiri_16Kbps/",
+    "order": 20
+  },
+  {
+    "id": 21,
+    "name": "English Ibrahim Walk",
+    "dir_name": "/IbrahimWalk",
+    "url": "https://www.everyayah.com/data/English/Ibrahim_Walk_192kbps_TEST/",
+    "order": 21
+  },
+  {
+    "id": 22,
+    "name": "Karim Mansoor",
+    "dir_name": "/Mansoor",
+    "url": "https://www.everyayah.com/data/Karim_Mansoori_40kbps/",
+    "order": 6
+  },
+  {
+    "id": 23,
+    "name": "khalefa al-tunaiji",
+    "dir_name": "/khalefaltunaiji",
+    "url": "https://www.everyayah.com/data/khalefa_al_tunaiji_64kbps/",
+    "order": 19
+  }
+]

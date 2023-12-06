@@ -1,0 +1,1142 @@
+[
+  {
+    "id": 1,
+    "name": "الْفَاتِحَة",
+    "nozol": "makki",
+    "verse_count": 7,
+    "en_name": "Al-Fātiḥaħ",
+    "reval": 5,
+    "farsi_name": "الفاتحه",
+    "english_name": "Al-Fatiha"
+  },
+  {
+    "id": 2,
+    "name": "الْبَقَرَة",
+    "nozol": "madani",
+    "verse_count": 286,
+    "en_name": "Al-Baqaraħ",
+    "reval": 87,
+    "farsi_name": "البقره",
+    "english_name": "Al-Baqarah"
+  },
+  {
+    "id": 3,
+    "name": "آلِ عِمْرَان",
+    "nozol": "madani",
+    "verse_count": 200,
+    "en_name": "'Āli `Imrān",
+    "reval": 89,
+    "farsi_name": "آل عمران",
+    "english_name": "Aal-e-Imran"
+  },
+  {
+    "id": 4,
+    "name": "النِّسَآء",
+    "nozol": "madani",
+    "verse_count": 176,
+    "en_name": "An-Nisā'",
+    "reval": 92,
+    "farsi_name": "النساء",
+    "english_name": "An-Nisa"
+  },
+  {
+    "id": 5,
+    "name": "الْمَآئِدَة",
+    "nozol": "madani",
+    "verse_count": 120,
+    "en_name": "Al-Mā'idaħ",
+    "reval": 113,
+    "farsi_name": "المائده",
+    "english_name": "Al-Maida"
+  },
+  {
+    "id": 6,
+    "name": "الْأَنْعَام",
+    "nozol": "makki",
+    "verse_count": 165,
+    "en_name": "Al-'An`ām",
+    "reval": 55,
+    "farsi_name": "الانعام",
+    "english_name": "Al-Anam"
+  },
+  {
+    "id": 7,
+    "name": "الْأَعْرَاف",
+    "nozol": "makki",
+    "verse_count": 206,
+    "en_name": "Al-'A`rāf",
+    "reval": 39,
+    "farsi_name": "الاعراف",
+    "english_name": "Al-Araf"
+  },
+  {
+    "id": 8,
+    "name": "الْأَنْفَال",
+    "nozol": "madani",
+    "verse_count": 75,
+    "en_name": "Al-'Anfāl",
+    "reval": 88,
+    "farsi_name": "الانفال",
+    "english_name": "Al-Anfal"
+  },
+  {
+    "id": 9,
+    "name": "التَّوْبَة",
+    "nozol": "madani",
+    "verse_count": 129,
+    "en_name": "At-Tawbaħ",
+    "reval": 114,
+    "farsi_name": "التوبه",
+    "english_name": "At-Tawbah"
+  },
+  {
+    "id": 10,
+    "name": "يُونُس",
+    "nozol": "makki",
+    "verse_count": 109,
+    "en_name": "Yūnus",
+    "reval": 51,
+    "farsi_name": "یونس",
+    "english_name": "Yunus"
+  },
+  {
+    "id": 11,
+    "name": "هُود",
+    "nozol": "makki",
+    "verse_count": 123,
+    "en_name": "Hūd",
+    "reval": 52,
+    "farsi_name": "هود",
+    "english_name": "Hud"
+  },
+  {
+    "id": 12,
+    "name": "يُوسُف",
+    "nozol": "makki",
+    "verse_count": 111,
+    "en_name": "Yūsuf",
+    "reval": 53,
+    "farsi_name": "یوسف",
+    "english_name": "Yusuf"
+  },
+  {
+    "id": 13,
+    "name": "الرَّعْد",
+    "nozol": "madani",
+    "verse_count": 43,
+    "en_name": "Ar-Ra`d",
+    "reval": 96,
+    "farsi_name": "الرعد",
+    "english_name": "Ar-Raad"
+  },
+  {
+    "id": 14,
+    "name": "إِبْرَاهِيم",
+    "nozol": "makki",
+    "verse_count": 52,
+    "en_name": "'Ibrāhīm",
+    "reval": 72,
+    "farsi_name": "ابراهیم",
+    "english_name": "Ibrahim"
+  },
+  {
+    "id": 15,
+    "name": "الْحِجْر",
+    "nozol": "makki",
+    "verse_count": 99,
+    "en_name": "Al-Ḥijr",
+    "reval": 54,
+    "farsi_name": "الحجر",
+    "english_name": "Al-Hijr"
+  },
+  {
+    "id": 16,
+    "name": "النَّحْل",
+    "nozol": "makki",
+    "verse_count": 128,
+    "en_name": "An-Naḥl",
+    "reval": 70,
+    "farsi_name": "النحل",
+    "english_name": "An-Nahl"
+  },
+  {
+    "id": 17,
+    "name": "الْإِسْرَآء",
+    "nozol": "makki",
+    "verse_count": 111,
+    "en_name": "Al-'Isrā'",
+    "reval": 50,
+    "farsi_name": "الاسراء",
+    "english_name": "Al-Isra"
+  },
+  {
+    "id": 18,
+    "name": "الْكَهْف",
+    "nozol": "makki",
+    "verse_count": 110,
+    "en_name": "Al-Kahf",
+    "reval": 69,
+    "farsi_name": "الکهف",
+    "english_name": "Al-Kahf"
+  },
+  {
+    "id": 19,
+    "name": "مَرْيَم",
+    "nozol": "makki",
+    "verse_count": 98,
+    "en_name": "Maryam",
+    "reval": 44,
+    "farsi_name": "مریم",
+    "english_name": "Maryam"
+  },
+  {
+    "id": 20,
+    "name": "طٰهٰ",
+    "nozol": "makki",
+    "verse_count": 135,
+    "en_name": "Ṭā-Hā",
+    "reval": 45,
+    "farsi_name": "طه",
+    "english_name": "Ta-Ha"
+  },
+  {
+    "id": 21,
+    "name": "الْأَنْبِيَآء",
+    "nozol": "makki",
+    "verse_count": 112,
+    "en_name": "Al-'Aɱbiyā'",
+    "reval": 73,
+    "farsi_name": "الانبیاء",
+    "english_name": "Al-Anbiya"
+  },
+  {
+    "id": 22,
+    "name": "الْحَجّ",
+    "nozol": "madani",
+    "verse_count": 78,
+    "en_name": "Al-Ḥajj",
+    "reval": 104,
+    "farsi_name": "الحج",
+    "english_name": "Al-Hajj"
+  },
+  {
+    "id": 23,
+    "name": "الْمُؤْمِنُون",
+    "nozol": "makki",
+    "verse_count": 118,
+    "en_name": "Al-Mu'minūn",
+    "reval": 74,
+    "farsi_name": "المؤمنون",
+    "english_name": "Al-Muminun"
+  },
+  {
+    "id": 24,
+    "name": "النُّور",
+    "nozol": "madani",
+    "verse_count": 64,
+    "en_name": "An-Nūr",
+    "reval": 103,
+    "farsi_name": "النور",
+    "english_name": "An-Nur"
+  },
+  {
+    "id": 25,
+    "name": "الْفُرْقَان",
+    "nozol": "makki",
+    "verse_count": 77,
+    "en_name": "Al-Furqān",
+    "reval": 42,
+    "farsi_name": "الفرقان",
+    "english_name": "Al-Furqan"
+  },
+  {
+    "id": 26,
+    "name": "الشُّعَرَآء",
+    "nozol": "makki",
+    "verse_count": 227,
+    "en_name": "Ash-Shu`arā'",
+    "reval": 47,
+    "farsi_name": "الشعراء",
+    "english_name": "Ash-Shuara"
+  },
+  {
+    "id": 27,
+    "name": "النَّمْل",
+    "nozol": "makki",
+    "verse_count": 93,
+    "en_name": "An-Naml",
+    "reval": 48,
+    "farsi_name": "النمل",
+    "english_name": "An-Naml"
+  },
+  {
+    "id": 28,
+    "name": "الْقَصَص",
+    "nozol": "makki",
+    "verse_count": 88,
+    "en_name": "Al-Qaṣaṣ",
+    "reval": 49,
+    "farsi_name": "القصص",
+    "english_name": "Al-Qasas"
+  },
+  {
+    "id": 29,
+    "name": "الْعَنْكَبُوت",
+    "nozol": "makki",
+    "verse_count": 69,
+    "en_name": "Al-`Ankabūt",
+    "reval": 85,
+    "farsi_name": "العنکبوت",
+    "english_name": "Al-Ankabut"
+  },
+  {
+    "id": 30,
+    "name": "الرُّوم",
+    "nozol": "makki",
+    "verse_count": 60,
+    "en_name": "Ar-Rūm",
+    "reval": 84,
+    "farsi_name": "الروم",
+    "english_name": "Ar-Rum"
+  },
+  {
+    "id": 31,
+    "name": "لُقْمَان",
+    "nozol": "makki",
+    "verse_count": 34,
+    "en_name": "Luqmān",
+    "reval": 57,
+    "farsi_name": "لقمان",
+    "english_name": "Luqman"
+  },
+  {
+    "id": 32,
+    "name": "السَّجْدَة",
+    "nozol": "makki",
+    "verse_count": 30,
+    "en_name": "As-Sajdaħ",
+    "reval": 75,
+    "farsi_name": "السجده",
+    "english_name": "As-Sajda"
+  },
+  {
+    "id": 33,
+    "name": "الْأَحْزَاب",
+    "nozol": "madani",
+    "verse_count": 73,
+    "en_name": "Al-'Aḥzāb",
+    "reval": 90,
+    "farsi_name": "الاحزاب",
+    "english_name": "Al-Ahzab"
+  },
+  {
+    "id": 34,
+    "name": "سَبَأ",
+    "nozol": "makki",
+    "verse_count": 54,
+    "en_name": "Saba'",
+    "reval": 58,
+    "farsi_name": "سبا",
+    "english_name": "Saba"
+  },
+  {
+    "id": 35,
+    "name": "فَاطِر",
+    "nozol": "makki",
+    "verse_count": 45,
+    "en_name": "Fāṭir",
+    "reval": 43,
+    "farsi_name": "فاطر",
+    "english_name": "Fatir"
+  },
+  {
+    "id": 36,
+    "name": "يٰسٓ",
+    "nozol": "makki",
+    "verse_count": 83,
+    "en_name": "Yā-Sīn",
+    "reval": 41,
+    "farsi_name": "یس",
+    "english_name": "Yasin"
+  },
+  {
+    "id": 37,
+    "name": "الصَّافَّات",
+    "nozol": "makki",
+    "verse_count": 182,
+    "en_name": "Aṣ-Ṣāffāt",
+    "reval": 56,
+    "farsi_name": "الصافات",
+    "english_name": "As-Saffat"
+  },
+  {
+    "id": 38,
+    "name": "صٓ",
+    "nozol": "makki",
+    "verse_count": 88,
+    "en_name": "Ṣād",
+    "reval": 38,
+    "farsi_name": "ص",
+    "english_name": "Sad"
+  },
+  {
+    "id": 39,
+    "name": "الزُّمَر",
+    "nozol": "makki",
+    "verse_count": 75,
+    "en_name": "Az-Zumar",
+    "reval": 59,
+    "farsi_name": "الزمر",
+    "english_name": "Az-Zumar"
+  },
+  {
+    "id": 40,
+    "name": "غَافِر",
+    "nozol": "makki",
+    "verse_count": 85,
+    "en_name": "Ghāfir",
+    "reval": 60,
+    "farsi_name": "غافر",
+    "english_name": "Ghafir"
+  },
+  {
+    "id": 41,
+    "name": "فُصِّلَت",
+    "nozol": "makki",
+    "verse_count": 54,
+    "en_name": "Fuṣṣilat",
+    "reval": 61,
+    "farsi_name": "فصلت",
+    "english_name": "Fussilat"
+  },
+  {
+    "id": 42,
+    "name": "الشُّورَىٰ",
+    "nozol": "makki",
+    "verse_count": 53,
+    "en_name": "Ash-Shūraá",
+    "reval": 62,
+    "farsi_name": "الشوری",
+    "english_name": "Ash-Shura"
+  },
+  {
+    "id": 43,
+    "name": "الزُّخْرُف",
+    "nozol": "makki",
+    "verse_count": 89,
+    "en_name": "Az-Zukhruf",
+    "reval": 63,
+    "farsi_name": "الزخرف",
+    "english_name": "Az-Zukhruf"
+  },
+  {
+    "id": 44,
+    "name": "الدُّخَان",
+    "nozol": "makki",
+    "verse_count": 59,
+    "en_name": "Ad-Dukhān",
+    "reval": 64,
+    "farsi_name": "الدخان",
+    "english_name": "Ad-Dukhan"
+  },
+  {
+    "id": 45,
+    "name": "الْجَاثِيَة",
+    "nozol": "makki",
+    "verse_count": 37,
+    "en_name": "Al-Jāthiyaħ",
+    "reval": 65,
+    "farsi_name": "الجاثیه",
+    "english_name": "Al-Jathiya"
+  },
+  {
+    "id": 46,
+    "name": "الْأَحْقَاف",
+    "nozol": "makki",
+    "verse_count": 35,
+    "en_name": "Al-'Aḥqāf",
+    "reval": 66,
+    "farsi_name": "الاحقاف",
+    "english_name": "Al-Ahqaf"
+  },
+  {
+    "id": 47,
+    "name": "مُحَمَّد",
+    "nozol": "madani",
+    "verse_count": 38,
+    "en_name": "Muḥammad",
+    "reval": 95,
+    "farsi_name": "محمد",
+    "english_name": "Muhammad"
+  },
+  {
+    "id": 48,
+    "name": "الْفَتْح",
+    "nozol": "madani",
+    "verse_count": 29,
+    "en_name": "Al-Fatḥ",
+    "reval": 112,
+    "farsi_name": "الفتح",
+    "english_name": "Al-Fath"
+  },
+  {
+    "id": 49,
+    "name": "الْحُجُرَات",
+    "nozol": "madani",
+    "verse_count": 18,
+    "en_name": "Al-Ḥujurāt",
+    "reval": 107,
+    "farsi_name": "الحجرات",
+    "english_name": "Al-Hujurat"
+  },
+  {
+    "id": 50,
+    "name": "قٓ",
+    "nozol": "makki",
+    "verse_count": 45,
+    "en_name": "Qāf",
+    "reval": 34,
+    "farsi_name": "ق",
+    "english_name": "Qaf"
+  },
+  {
+    "id": 51,
+    "name": "الذَّارِيَات",
+    "nozol": "makki",
+    "verse_count": 60,
+    "en_name": "Adh-Dhāriyāt",
+    "reval": 67,
+    "farsi_name": "الذاریات",
+    "english_name": "Adh-Dhariyat"
+  },
+  {
+    "id": 52,
+    "name": "الطُّور",
+    "nozol": "makki",
+    "verse_count": 49,
+    "en_name": "Aṭ-Ṭūr",
+    "reval": 76,
+    "farsi_name": "الطور",
+    "english_name": "At-Tur"
+  },
+  {
+    "id": 53,
+    "name": "النَّجْم",
+    "nozol": "makki",
+    "verse_count": 62,
+    "en_name": "An-Najm",
+    "reval": 23,
+    "farsi_name": "النجم",
+    "english_name": "An-Najm"
+  },
+  {
+    "id": 54,
+    "name": "الْقَمَر",
+    "nozol": "makki",
+    "verse_count": 55,
+    "en_name": "Al-Qamar",
+    "reval": 37,
+    "farsi_name": "القمر",
+    "english_name": "Al-Qamar"
+  },
+  {
+    "id": 55,
+    "name": "الرَّحْمَٰن",
+    "nozol": "madani",
+    "verse_count": 78,
+    "en_name": "Ar-Raḥmān",
+    "reval": 97,
+    "farsi_name": "الرحمان",
+    "english_name": "Ar-Rahman"
+  },
+  {
+    "id": 56,
+    "name": "الْوَاقِعَة",
+    "nozol": "makki",
+    "verse_count": 96,
+    "en_name": "Al-Wāqi`aħ",
+    "reval": 46,
+    "farsi_name": "الواقعه",
+    "english_name": "Al-Waqi'a"
+  },
+  {
+    "id": 57,
+    "name": "الْحَدِيد",
+    "nozol": "madani",
+    "verse_count": 29,
+    "en_name": "Al-Ḥadīd",
+    "reval": 94,
+    "farsi_name": "الحدید",
+    "english_name": "Al-Hadid"
+  },
+  {
+    "id": 58,
+    "name": "الْمُجَادَلَة",
+    "nozol": "madani",
+    "verse_count": 22,
+    "en_name": "Al-Mujādalaħ",
+    "reval": 106,
+    "farsi_name": "المجادله",
+    "english_name": "Al-Mujadila"
+  },
+  {
+    "id": 59,
+    "name": "الْحَشْر",
+    "nozol": "madani",
+    "verse_count": 24,
+    "en_name": "Al-Ḥashr",
+    "reval": 101,
+    "farsi_name": "الحشر",
+    "english_name": "Al-Hashr"
+  },
+  {
+    "id": 60,
+    "name": "الْمُمْتَحِنَة",
+    "nozol": "madani",
+    "verse_count": 13,
+    "en_name": "Al-Mumtaḥanaħ",
+    "reval": 91,
+    "farsi_name": "الممتحنه",
+    "english_name": "Al-Mumtahanah"
+  },
+  {
+    "id": 61,
+    "name": "الصَّفّ",
+    "nozol": "madani",
+    "verse_count": 14,
+    "en_name": "Aṣ-Ṣaff",
+    "reval": 111,
+    "farsi_name": "الصف",
+    "english_name": "As-Saff"
+  },
+  {
+    "id": 62,
+    "name": "الْجُمُعَة",
+    "nozol": "madani",
+    "verse_count": 11,
+    "en_name": "Al-Jumu`aħ",
+    "reval": 109,
+    "farsi_name": "الجمعه",
+    "english_name": "Al-Jumu'a"
+  },
+  {
+    "id": 63,
+    "name": "الْمُنَافِقُون",
+    "nozol": "madani",
+    "verse_count": 11,
+    "en_name": "Al-Munāfiqūn",
+    "reval": 105,
+    "farsi_name": "المنافقون",
+    "english_name": "Al-Munafiqun"
+  },
+  {
+    "id": 64,
+    "name": "التَّغَابُن",
+    "nozol": "madani",
+    "verse_count": 18,
+    "en_name": "At-Taghābun",
+    "reval": 110,
+    "farsi_name": "التغابن",
+    "english_name": "At-Taghabun"
+  },
+  {
+    "id": 65,
+    "name": "الطَّلَاق",
+    "nozol": "madani",
+    "verse_count": 12,
+    "en_name": "Aṭ-Ṭalāq",
+    "reval": 99,
+    "farsi_name": "الطلاق",
+    "english_name": "At-Talaq"
+  },
+  {
+    "id": 66,
+    "name": "التَّحْرِيم",
+    "nozol": "madani",
+    "verse_count": 12,
+    "en_name": "At-Taḥrīm",
+    "reval": 108,
+    "farsi_name": "التحریم",
+    "english_name": "At-Tahrim"
+  },
+  {
+    "id": 67,
+    "name": "الْمُلْك",
+    "nozol": "makki",
+    "verse_count": 30,
+    "en_name": "Al-Mulk",
+    "reval": 77,
+    "farsi_name": "الملک",
+    "english_name": "Al-Mulk"
+  },
+  {
+    "id": 68,
+    "name": "الْقَلَم",
+    "nozol": "makki",
+    "verse_count": 52,
+    "en_name": "Al-Qalam",
+    "reval": 2,
+    "farsi_name": "القلم",
+    "english_name": "Al-Qalam"
+  },
+  {
+    "id": 69,
+    "name": "الْحَاقَّة",
+    "nozol": "makki",
+    "verse_count": 52,
+    "en_name": "Al-Ḥāqqaħ",
+    "reval": 78,
+    "farsi_name": "الحاقه",
+    "english_name": "Al-Haqqah"
+  },
+  {
+    "id": 70,
+    "name": "الْمَعَارِج",
+    "nozol": "makki",
+    "verse_count": 44,
+    "en_name": "Al-Ma`ārij",
+    "reval": 79,
+    "farsi_name": "المعارج",
+    "english_name": "Al-Ma`arij"
+  },
+  {
+    "id": 71,
+    "name": "نُوح",
+    "nozol": "makki",
+    "verse_count": 28,
+    "en_name": "Nūḥ",
+    "reval": 71,
+    "farsi_name": "نوح",
+    "english_name": "Noah"
+  },
+  {
+    "id": 72,
+    "name": "الْجِنّ",
+    "nozol": "makki",
+    "verse_count": 28,
+    "en_name": "Al-Jinn",
+    "reval": 40,
+    "farsi_name": "الجن",
+    "english_name": "Al-Jinn"
+  },
+  {
+    "id": 73,
+    "name": "الْمُزَّمِّل",
+    "nozol": "makki",
+    "verse_count": 20,
+    "en_name": "Al-Muzzammil",
+    "reval": 3,
+    "farsi_name": "المزمل",
+    "english_name": "Al-Muzzammil"
+  },
+  {
+    "id": 74,
+    "name": "الْمُدَّثِّر",
+    "nozol": "makki",
+    "verse_count": 56,
+    "en_name": "Al-Muddaththir",
+    "reval": 4,
+    "farsi_name": "المدثر",
+    "english_name": "Al-Muddaththir"
+  },
+  {
+    "id": 75,
+    "name": "الْقِيَامَة",
+    "nozol": "makki",
+    "verse_count": 40,
+    "en_name": "Al-Qiyāmaħ",
+    "reval": 31,
+    "farsi_name": "القیامه",
+    "english_name": "Al-Qiyamah"
+  },
+  {
+    "id": 76,
+    "name": "الْإِنْسَان",
+    "nozol": "madani",
+    "verse_count": 31,
+    "en_name": "Al-'Insān",
+    "reval": 98,
+    "farsi_name": "الانسان",
+    "english_name": "Al-Insan"
+  },
+  {
+    "id": 77,
+    "name": "الْمُرْسَلَات",
+    "nozol": "makki",
+    "verse_count": 50,
+    "en_name": "Al-Mursalāt",
+    "reval": 33,
+    "farsi_name": "المرسلات",
+    "english_name": "Al-Mursalat"
+  },
+  {
+    "id": 78,
+    "name": "النَّبَأ",
+    "nozol": "makki",
+    "verse_count": 40,
+    "en_name": "An-Naba'",
+    "reval": 80,
+    "farsi_name": "النبا",
+    "english_name": "An-Naba'"
+  },
+  {
+    "id": 79,
+    "name": "النَّازِعَات",
+    "nozol": "makki",
+    "verse_count": 46,
+    "en_name": "An-Nāzi`āt",
+    "reval": 81,
+    "farsi_name": "النازعات",
+    "english_name": "An-Naziat"
+  },
+  {
+    "id": 80,
+    "name": "عَبَسَ",
+    "nozol": "makki",
+    "verse_count": 42,
+    "en_name": "`Abasa",
+    "reval": 24,
+    "farsi_name": "عبس",
+    "english_name": "`Abasa"
+  },
+  {
+    "id": 81,
+    "name": "التَّکْوِير",
+    "nozol": "makki",
+    "verse_count": 29,
+    "en_name": "At-Takwīr",
+    "reval": 7,
+    "farsi_name": "التکویر",
+    "english_name": "At-Takwir"
+  },
+  {
+    "id": 82,
+    "name": "الْإِنْفِطَار",
+    "nozol": "makki",
+    "verse_count": 19,
+    "en_name": "Al-'Infiṭār",
+    "reval": 82,
+    "farsi_name": "الانفطار",
+    "english_name": "Al-Infitar"
+  },
+  {
+    "id": 83,
+    "name": "الْمُطَفِّفِين",
+    "nozol": "makki",
+    "verse_count": 36,
+    "en_name": "Al-Muṭaffifīn",
+    "reval": 86,
+    "farsi_name": "المطففین",
+    "english_name": "Al-Mutaffifin"
+  },
+  {
+    "id": 84,
+    "name": "الْإِنْشِقَاق",
+    "nozol": "makki",
+    "verse_count": 25,
+    "en_name": "Al-'Inshiqāq",
+    "reval": 83,
+    "farsi_name": "الانشقاق",
+    "english_name": "Al-Inshiqaq"
+  },
+  {
+    "id": 85,
+    "name": "الْبُرُوج",
+    "nozol": "makki",
+    "verse_count": 22,
+    "en_name": "Al-Burūj",
+    "reval": 27,
+    "farsi_name": "البروج",
+    "english_name": "Al-Buruj"
+  },
+  {
+    "id": 86,
+    "name": "الطَّارِق",
+    "nozol": "makki",
+    "verse_count": 17,
+    "en_name": "Aṭ-Ṭāriq",
+    "reval": 36,
+    "farsi_name": "الطارق",
+    "english_name": "At-Tariq"
+  },
+  {
+    "id": 87,
+    "name": "الْأَعْلَیٰ",
+    "nozol": "makki",
+    "verse_count": 19,
+    "en_name": "Al-'A`laá",
+    "reval": 8,
+    "farsi_name": "الاعلی",
+    "english_name": "Al-A`la"
+  },
+  {
+    "id": 88,
+    "name": "الْغَاشِيَة",
+    "nozol": "makki",
+    "verse_count": 26,
+    "en_name": "Al-Ghāshiyaħ",
+    "reval": 68,
+    "farsi_name": "الغاشیه",
+    "english_name": "Al-Ghashiyah"
+  },
+  {
+    "id": 89,
+    "name": "الْفَجْر",
+    "nozol": "makki",
+    "verse_count": 30,
+    "en_name": "Al-Fajr",
+    "reval": 10,
+    "farsi_name": "الفجر",
+    "english_name": "Al-Fajr"
+  },
+  {
+    "id": 90,
+    "name": "الْبَلَد",
+    "nozol": "makki",
+    "verse_count": 20,
+    "en_name": "Al-Balad",
+    "reval": 35,
+    "farsi_name": "البلد",
+    "english_name": "Al-Balad"
+  },
+  {
+    "id": 91,
+    "name": "الشَّمْس",
+    "nozol": "makki",
+    "verse_count": 15,
+    "en_name": "Ash-Shams",
+    "reval": 26,
+    "farsi_name": "الشمس",
+    "english_name": "Ash-Shams"
+  },
+  {
+    "id": 92,
+    "name": "اللَّيْل",
+    "nozol": "makki",
+    "verse_count": 21,
+    "en_name": "Al-Layl",
+    "reval": 9,
+    "farsi_name": "اللیل",
+    "english_name": "Al-Layl"
+  },
+  {
+    "id": 93,
+    "name": "الضُّحَیٰ",
+    "nozol": "makki",
+    "verse_count": 11,
+    "en_name": "Aḍ-Ḍuḥaá",
+    "reval": 11,
+    "farsi_name": "الضحی",
+    "english_name": "Ad-Duha"
+  },
+  {
+    "id": 94,
+    "name": "الشَّرْح",
+    "nozol": "makki",
+    "verse_count": 8,
+    "en_name": "Ash-Sharḥ",
+    "reval": 12,
+    "farsi_name": "الشرح",
+    "english_name": "Ash-Sharh"
+  },
+  {
+    "id": 95,
+    "name": "التِّين",
+    "nozol": "makki",
+    "verse_count": 8,
+    "en_name": "At-Tīn",
+    "reval": 28,
+    "farsi_name": "التین",
+    "english_name": "At-Tin"
+  },
+  {
+    "id": 96,
+    "name": "الْعَلَق",
+    "nozol": "makki",
+    "verse_count": 19,
+    "en_name": "Al-`Alaq",
+    "reval": 1,
+    "farsi_name": "العلق",
+    "english_name": "Al-Alaq"
+  },
+  {
+    "id": 97,
+    "name": "الْقَدْر",
+    "nozol": "makki",
+    "verse_count": 5,
+    "en_name": "Al-Qadr",
+    "reval": 25,
+    "farsi_name": "القدر",
+    "english_name": "Al-Qadr"
+  },
+  {
+    "id": 98,
+    "name": "الْبَيِّنَة",
+    "nozol": "madani",
+    "verse_count": 8,
+    "en_name": "Al-Bayyinaħ",
+    "reval": 100,
+    "farsi_name": "البینه",
+    "english_name": "Al-Bayyina"
+  },
+  {
+    "id": 99,
+    "name": "الزَّلْزَلَة",
+    "nozol": "madani",
+    "verse_count": 8,
+    "en_name": "Az-Zalzalaħ",
+    "reval": 93,
+    "farsi_name": "الزلزله",
+    "english_name": "Az-Zalzalah"
+  },
+  {
+    "id": 100,
+    "name": "الْعَادِيَات",
+    "nozol": "makki",
+    "verse_count": 11,
+    "en_name": "Al-`Ādiyāt",
+    "reval": 14,
+    "farsi_name": "العادیات",
+    "english_name": "Al-Adiyat"
+  },
+  {
+    "id": 101,
+    "name": "الْقَارِعَة",
+    "nozol": "makki",
+    "verse_count": 11,
+    "en_name": "Al-Qāri`aħ",
+    "reval": 30,
+    "farsi_name": "القارعه",
+    "english_name": "Al-Qariah"
+  },
+  {
+    "id": 102,
+    "name": "التَّكَاثُر",
+    "nozol": "makki",
+    "verse_count": 8,
+    "en_name": "At-Takāthur",
+    "reval": 16,
+    "farsi_name": "التکاثر",
+    "english_name": "At-Takathur"
+  },
+  {
+    "id": 103,
+    "name": "الْعَصْر",
+    "nozol": "makki",
+    "verse_count": 3,
+    "en_name": "Al-`Aṣr",
+    "reval": 13,
+    "farsi_name": "العصر",
+    "english_name": "Al-Asr"
+  },
+  {
+    "id": 104,
+    "name": "الْهُمَزَة",
+    "nozol": "makki",
+    "verse_count": 9,
+    "en_name": "Al-Humazaħ",
+    "reval": 32,
+    "farsi_name": "الهمزه",
+    "english_name": "Al-Humazah"
+  },
+  {
+    "id": 105,
+    "name": "الْفِيل",
+    "nozol": "makki",
+    "verse_count": 5,
+    "en_name": "Al-Fīl",
+    "reval": 19,
+    "farsi_name": "الفیل",
+    "english_name": "Al-Feel"
+  },
+  {
+    "id": 106,
+    "name": "قُرَيْش",
+    "nozol": "makki",
+    "verse_count": 4,
+    "en_name": "Quraysh",
+    "reval": 29,
+    "farsi_name": "قریش",
+    "english_name": "Quraish"
+  },
+  {
+    "id": 107,
+    "name": "الْمَاعُون",
+    "nozol": "makki",
+    "verse_count": 7,
+    "en_name": "Al-Mā`ūn",
+    "reval": 17,
+    "farsi_name": "الماعون",
+    "english_name": "Al-Ma'un"
+  },
+  {
+    "id": 108,
+    "name": "الْكَوْثَر",
+    "nozol": "makki",
+    "verse_count": 3,
+    "en_name": "Al-Kawthar",
+    "reval": 15,
+    "farsi_name": "الکوثر",
+    "english_name": "Al-Kawthar"
+  },
+  {
+    "id": 109,
+    "name": "الْكَافِرُون",
+    "nozol": "makki",
+    "verse_count": 6,
+    "en_name": "Al-Kāfirūn",
+    "reval": 18,
+    "farsi_name": "الکافرون",
+    "english_name": "Al-Kafirun"
+  },
+  {
+    "id": 110,
+    "name": "النَّصْر",
+    "nozol": "madani",
+    "verse_count": 3,
+    "en_name": "An-Naṣr",
+    "reval": 102,
+    "farsi_name": "النصر",
+    "english_name": "An-Nasr"
+  },
+  {
+    "id": 111,
+    "name": "الْمَسَد",
+    "nozol": "makki",
+    "verse_count": 5,
+    "en_name": "Al-Masad",
+    "reval": 6,
+    "farsi_name": "المسد",
+    "english_name": "Al-Masad"
+  },
+  {
+    "id": 112,
+    "name": "الْإِخْلَاص",
+    "nozol": "makki",
+    "verse_count": 4,
+    "en_name": "Al-'Ikhlāṣ",
+    "reval": 22,
+    "farsi_name": "الاخلاص",
+    "english_name": "Al-Ikhlas"
+  },
+  {
+    "id": 113,
+    "name": "الْفَلَق",
+    "nozol": "makki",
+    "verse_count": 5,
+    "en_name": "Al-Falaq",
+    "reval": 20,
+    "farsi_name": "الفلق",
+    "english_name": "Al-Falaq"
+  },
+  {
+    "id": 114,
+    "name": "النَّاس",
+    "nozol": "makki",
+    "verse_count": 6,
+    "en_name": "An-Nās",
+    "reval": 21,
+    "farsi_name": "الناس",
+    "english_name": "An-Nas"
+  }
+]
