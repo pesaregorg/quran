@@ -2,7 +2,7 @@
 
 - A Flutter application for the Holy Quran developed using Provider and Hive.
 
-<img src="screenshots/shot1.png" height="300em" /> <img src="screenshots/shot2.png" height="300em" /> <img src="screenshots/shot3.png" height="300em" /> <img src="screenshots/shot3.png" height="300em" />
+<img src="screenshots/shot1.png" height="300em" /> <img src="screenshots/shot2.png" height="300em" /> <img src="screenshots/shot3.png" height="300em" /> <img src="screenshots/shot4.png" height="300em" />
 
 ## How to Use
 ```text
