@@ -1,3 +1,5 @@
+![Banner](screenshots/shot1.png)![Banner](screenshots/shot2.png)![Banner](screenshots/shot3.png)![Banner](screenshots/shot4.png)
+
 # Mobile App - The Holy Quran
 
 - A Flutter application for the Holy Quran developed using Provider and Hive.
